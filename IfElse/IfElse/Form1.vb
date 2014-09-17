@@ -20,7 +20,6 @@ Public Class Form1
             txtResult.Text = "They are equal"
         End If
 
-
     End Sub
 
 End Class
